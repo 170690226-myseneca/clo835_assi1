@@ -2,7 +2,7 @@ name: Deploy to ECR
 # updated secrets
 on: 
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   
